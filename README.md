@@ -1,0 +1,2 @@
+# Szoftvertechnologia-beadando
+Takaritoszolgalat
